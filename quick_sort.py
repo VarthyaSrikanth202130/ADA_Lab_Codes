@@ -7,8 +7,6 @@ def pivot(list, start, end):
     pivot = list[start]
     low = start + 1
     high = end
- 
- 
     while True:
         while low <= high and list[high] >= pivot:
             high = high - 1
