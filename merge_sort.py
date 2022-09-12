@@ -1,5 +1,4 @@
-""" Implement Merge Sort Algorithm with all the necessary functions.
-_______________________ ADA Lab-3 __________________________ """
+"""Q. Program implement Merge Sort Algorithm with all the necessary functions."""
 
 # Funtion to divide the lists in the two sublists
 def sort(sorted_list):

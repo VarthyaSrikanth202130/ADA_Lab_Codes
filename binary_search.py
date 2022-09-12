@@ -1,5 +1,4 @@
-"""___________ ADA lab-1 ___________
-Q.Program to implement Binary Search. """
+"""Q.Program to implement Binary Search. """
 
 # Binary search using Iteration
 def binarySearchIterative(list, value):
