@@ -1,4 +1,4 @@
-"""Q. Program to mplement Quick Srot algorithm witl all necessary functions"""
+"""Q. Program to implement Quick Srot algorithm with all necessary functions"""
 
 # Function to get pivot element
 def pivot(list, start, end):
