@@ -21,7 +21,6 @@ def merge(a_list, b_list):
     length_b = len(b_list)
 # Sort each one and place into the result
     while index_a < length_a and index_b < length_b:
-
         if a_list[index_a] <= b_list[index_b]:
             combined_list.append(a_list[index_a])
             index_a = index_a + 1
@@ -37,4 +36,5 @@ def merge(a_list, b_list):
         index_b = index_b + 1
     return combined_list
 # Driver code
-print(sort([51,11,25,10,9,44,13,32,]))
+list = [51,11,25,10,9,44,13,32,]
+print(sort(list))

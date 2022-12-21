@@ -1,6 +1,4 @@
 """Q. Program to implement n queens algorithm using Backtracking"""
-
-from __future__ import annotations
 solution = []
 def is_safe(board: list[list[int]], row: int, column: int) -> bool:
     #returns a boolean value True if it is safe to place a queen

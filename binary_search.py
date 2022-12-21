@@ -28,6 +28,7 @@ def binarySearchRecursive(list,low,high,value):
     return None
 
 list = [2,4,5,7,9,12,13,16,19]
+print(list)
 # Taking input value from user
 value = int(input("Enter the key to find: "))
 # Calling the function to get the position
